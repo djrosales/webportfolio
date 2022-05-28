@@ -276,7 +276,9 @@ font-family: 'Padauk', sans-serif;
     color:rgb(127, 14, 61);
     font-weight:bolder;
     font-family: 'Padauk', sans-serif;
-    text-transform: uppercase;
+}
+.container{
+    min-height: 100%;
 }
 .container h4{
     font-family: 'Poppins', sans-serif;
